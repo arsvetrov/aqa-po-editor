@@ -1,7 +1,5 @@
 import requests
-
-
-BASE_URL = "https://po-editor-api.demo.p2h-cd.com/api/"
+from test_data.constants import BASE_URL
 
 
 class Roles:
